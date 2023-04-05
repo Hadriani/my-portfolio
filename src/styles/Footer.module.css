@@ -1,0 +1,37 @@
+.wrapper {
+    background: linear-gradient(to right, #1c4e8e, #000000);
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 5px 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    min-height: 10px;
+    align-items: center;
+    letter-spacing: .05em;
+    position: relative;
+    border-bottom: 1px solid #212F3D;
+}
+
+.copyright {
+    padding-top: 10px;
+    font-family:
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        Segoe UI,
+        Roboto,
+        Helvetica Neue,
+        Arial,
+        Noto Sans,
+        sans-serif,
+        Apple Color Emoji,
+        Segoe UI Emoji,
+        Segoe UI Symbol,
+        Noto Color Emoji;
+    text-align: center;
+    color: white;
+    user-select: none;
+}
