@@ -372,7 +372,7 @@ export default function Main() {
                     <p> I am pleased to write a letter of recommendation for</p>
                     <p>Adrian Paun. As his tutor, I have had an opportunity to </p>
                     <p>observe his participation and interaction in class and to</p>
-                    <p>evaluate Adrian&apos;s knowledge of the subject matter. He is</p>
+                    <p>evaluate Adrian knowledge of the subject matter. He is</p>
                     <p> an outstanding student in all respects Adrian Paun is</p>
                     <p>proven that through hard work, follow-through, and</p>
                     <p>teamwork; he can accomplish tasks in a courteous and</p>
