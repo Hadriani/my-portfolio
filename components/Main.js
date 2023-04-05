@@ -369,7 +369,7 @@ export default function Main() {
 
             <div className={style.introwrap}>
                 <div className={style.introcontainer}>
-                    <p> "I am pleased to write a letter of recommendation for</p>
+                    <p> &ldquo;I am pleased to write a letter of recommendation for</p>
                     <p>Adrian Paun. As his tutor, I have had an opportunity to </p>
                     <p>observe his participation and interaction in class and to</p>
                     <p>evaluate Adrian's knowledge of the subject matter. He is</p>
@@ -380,7 +380,7 @@ export default function Main() {
                     <p>challenges that he has presented with his proactivity,</p>
                     <p>good staging, and fast learning skills prepare him</p>
                     <p>beautifully for his clients or your organization.I strongly</p>
-                    <p>endorse making Adrian a member of your team."</p>
+                    <p>endorse making Adrian a member of your team.&rdquo;</p>
                 </div>
                 <br/>
                 <div className={style.introcontainer}>
