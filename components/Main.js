@@ -69,9 +69,9 @@ export default function Main() {
                 </div>
                 <div className={style.biotext}>
                     <p>
-                    I&apos;ve been coding since 2022. I&apos;m a web developer who loves building full-stack applications & learning new technologies.
-                    Wherever you&apos;re looking for a freelancer to work on your web3 project, or join your company, or seeking to hire a skilled developer for business websites that are not web3 related, I&apos;d be thrilled to discuss how I can help bring your ideas to life.
-                    When I&apos;m not coding, I travel, and also take care of my hobby as a music producer.
+                    I am coding since 2022. I am a web developer who loves building full-stack applications & learning new technologies.
+                    Wherever you are looking for a freelancer to work on your web3 project, or join your company, or seeking to hire a skilled developer for business websites that are not web3 related, I am thrilled to discuss how I can help bring your ideas to life.
+                    When I am not coding, I travel, and also take care of my hobby as a music producer.
                     </p>
                     <br/>
                     <p>My preferred tools of choice are:</p>
@@ -172,7 +172,7 @@ export default function Main() {
                 <div className={style.biotext2}>
                     <h1 className={style.titleprojects}>Adrian Casino</h1>
                     <p>
-                        A lottery dApp game I did, using front-end web3.js, Next.js, Solidity, Alchemy & Etherscan API, authentication with Metamask, Javascript and CSS for styling. Smart contract verified and deployed on Ethereum Sepolia Test Network Chain. Read &quot;Instructions&quot; from the page of how the game works.
+                        A lottery dApp game I did, using front-end web3.js, Next.js, Solidity, Alchemy & Etherscan API, authentication with Metamask, Javascript and CSS for styling. Smart contract verified and deployed on Ethereum Sepolia Test Network Chain. Read Instructions from the page of how the game works.
                         Project is supported on both desktop browsers and mobile versions.
                         Tools used:
                     </p>
@@ -218,7 +218,7 @@ export default function Main() {
                 <div className={style.biotext}>
                     <h1 className={style.titleprojects}>Genesys NFT</h1>
                     <p>
-                        A minting NFT dApp I did, using front-end web3.js, React.js, Solidity, thirdweb IPFS, Infuria & Etherscan API, authentication with Metamask, Javascript and SCSS for styling. Smart contract verified and deployed on Ethereum Sepolia Test Network Chain. Read Readme.MD file from Github of how I&apos;ve done it.
+                        A minting NFT dApp I did, using front-end web3.js, React.js, Solidity, thirdweb IPFS, Infuria & Etherscan API, authentication with Metamask, Javascript and SCSS for styling. Smart contract verified and deployed on Ethereum Sepolia Test Network Chain. Read Readme.MD file from Github of how I did it.
                         Project is supported on both desktop browsers and mobile versions.
                         Tools used:
                     </p>
@@ -369,7 +369,7 @@ export default function Main() {
 
             <div className={style.introwrap}>
                 <div className={style.introcontainer}>
-                    <p> &quot;I am pleased to write a letter of recommendation for</p>
+                    <p> I am pleased to write a letter of recommendation for</p>
                     <p>Adrian Paun. As his tutor, I have had an opportunity to </p>
                     <p>observe his participation and interaction in class and to</p>
                     <p>evaluate Adrian&apos;s knowledge of the subject matter. He is</p>
@@ -380,7 +380,7 @@ export default function Main() {
                     <p>challenges that he has presented with his proactivity,</p>
                     <p>good staging, and fast learning skills prepare him</p>
                     <p>beautifully for his clients or your organization.I strongly</p>
-                    <p>endorse making Adrian a member of your team.&quot;</p>
+                    <p>endorse making Adrian a member of your team.</p>
                 </div>
                 <br/>
                 <div className={style.introcontainer}>
