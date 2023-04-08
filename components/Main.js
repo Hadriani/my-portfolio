@@ -265,7 +265,7 @@ export default function Main() {
                     <h1 className={style.titleprojects}>Pro Urban Store</h1>
                     <p>
                         A sample of a small e-comm store I did, using React / Redux. Included inside: authentication with Firebase, Stripe API payment, JSX styling components and Javascript.
-                        Project is supported on desktop browsers only, not supported on mobile versions. Site deployed with Netlify. Added the github repo link from this project as well.
+                        Project is supported on both desktop browsers and mobile versions. Site deployed with Netlify. Added the github repo link from this project as well.
                         Tools used:
                     </p>
 
