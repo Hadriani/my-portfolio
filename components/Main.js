@@ -330,13 +330,13 @@ export default function Main() {
                 <div className={style.introcontainer}>
                     <h4>2022 - 2023</h4>
                     <h5>Github</h5>
-                    <p> During the last year, I self-studied the web programming</p>
-                    <p>field starting with HTML, CSS, Javascript, different</p>
-                    <p>frameworks like React and Next.Js from online trainings and</p>
-                    <p>courses that helped me developed a better understanding</p>
-                    <p> of the front-end development as well as back-end</p>
-                    <p>development and had my first projects done. My personal</p>
-                    <p>preference is Next.js as a framework.</p>
+                    <p> Building e-commerce platforms both from the ground up</p>
+                    <p>and integrating existing solutions,</p>
+                    <p> with a focus on user experience and UI design. </p>
+                    <p>Driving the development of dApps, resulting in great user engagement.</p>
+                    <p> Passionate about driving system security best practices</p>
+                    <p>and ensuring maintainability across services.</p>
+                    <p>Explore my capabilities through live examples on my site, revealing the depth of my expertise.</p>
                 </div>
                 <br/>
                 <br/>
@@ -344,10 +344,10 @@ export default function Main() {
                     <h4>2013 - 2021</h4>
                     <h5>Maritime Engineer</h5>
                     <p> I came from a background of doing jobs in the maritime</p>
-                    <p>industry. I was a seafarer: cadet and junior engineer, worked</p>
-                    <p>on international shipping transport companies like CMA</p>
-                    <p>CGM and also on cruise ships from Holland America Group.</p>
-                    <p> I traveled the world a lot.</p>
+                    <p>industry. I traveled throughout the world</p>
+                    <p>and I developed a skill to work in diverse environments.</p>
+                    <p>I have the ability to work in a team</p>
+                    <p> with strong analytical thinking</p>
                 </div>
             </div>
 
