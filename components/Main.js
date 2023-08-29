@@ -347,7 +347,7 @@ export default function Main() {
                     <p>industry. I traveled throughout the world</p>
                     <p>and I developed a skill to work in diverse environments.</p>
                     <p>I have the ability to work in a team</p>
-                    <p> with strong analytical thinking</p>
+                    <p> with strong analytical thinking.</p>
                 </div>
             </div>
 
