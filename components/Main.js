@@ -126,8 +126,8 @@ export default function Main() {
                     <h1 className={style.titleprojects}>Romdale Store</h1>
                     <p>
                         A detailed e-commerce store I built from scratch using Next.js and React Contexts. 
-                        You can navigate only from homepage to collections: hats, shoes, ID dynamic route for each item, authentication page, other route pages, checkout page, wishlist page only for functionalities and viewing. Payment not available yet.
-                        Currently optimizing for mobile versions, is only for desktop PC/laptop browsers. Site deployed with Vercel. Added the github repo link from this project as well.
+                        You can navigate only from homepage to collections: hats, shoes, ID dynamic route for each hats and shoes, authentication page, other route pages, checkout page, wishlist page only for functionalities and viewing.
+                        Available on both desktop browsers and mobile versions. Site deployed with Vercel. Added the github repo link from this project as well.
                         Tools used:
                     </p>
                  
